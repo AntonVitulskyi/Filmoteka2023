@@ -1,11 +1,11 @@
 {
-  "name": "parcel-project-template",
+  "name": "iceCream2023",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://AntonVitulskyi.github.io/Filmoteka2023",
+  "homepage": "https://AntonVitulskyi.github.io/iceCream2023",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /Filmoteka2023/"
+    "build": "parcel build src/*.html --public-url /iceCream2023/"
   },
   "repository": {
     "type": "git",
